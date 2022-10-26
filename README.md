@@ -1,6 +1,6 @@
 ## NFTMarketplace on Celo
 
-<h2>This an NFTMarketplace built and deployed on the celo-alfajores-testnet</h2>
+<h2>This is an NFTMarketplace built and deployed on the celo-alfajores-testnet</h2>
 
 <b>What is celo?</b>
 

@@ -20,6 +20,7 @@ Celo uses a Proof of Stake consensus algorithm, which allows for cheap and fast 
 ## Run
 
 To run this project locally.
-1. Open a terminal and navigate to the frontend directory and run `npm run dev` or `npm run start`
-2. view the home page on <a href="http://localhost:3000">http://localhost:3000</a> on a web browser. 
-3. Navigate to the `create listing` page to create a listing
+1. Open a terminal and navigate to the frontend directory and run `npm install` to install all dependencies.
+2. Then run `npm run dev` or `npm run start` to start project on the port 3000.
+3. view the home page on <a href="http://localhost:3000">http://localhost:3000</a> on a web browser. 
+4. Navigate to the `create listing` page to create a listing

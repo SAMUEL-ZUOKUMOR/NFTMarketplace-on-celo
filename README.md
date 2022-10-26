@@ -11,7 +11,9 @@ Celo also uses an ultralight client, which utilizes Zero-Knowledge proofs, to al
 Celo uses a Proof of Stake consensus algorithm, which allows for cheap and fast transactions on the network.
 
 <h3>Tools:</h3>
-`NextJs`, `Hardhat`, `GraphQL`
+<b>NextJs</b> <br /> 
+<b>Hardhat</b> <br />
+<b>GraphQL</b> <br />
 
 <b>Project reference by <a href="learnweb3.io">learnweb3</a> platform.</b>
 
